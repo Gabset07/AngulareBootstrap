@@ -1,0 +1,18 @@
+
+h2{
+  background-color: #2a7e1d;
+}
+main{
+  color: white;
+  background-color: #21D973;
+}
+
+p{
+  margin: auto;
+  text-align: justify;
+}
+
+.leao{
+  width: 90%;
+  margin-left: 20px;
+}

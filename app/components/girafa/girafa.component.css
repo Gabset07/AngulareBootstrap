@@ -1,0 +1,20 @@
+
+
+body{
+background-color: #21D973;
+color: white;
+border-radius: 15px;
+}
+h2{
+  background-color: #2b791f;
+}
+p{
+  text-align: justify;
+
+}
+
+.girafa{
+  width: 90%;
+  height:80%;
+  margin-left: 30px;
+}
